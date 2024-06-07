@@ -1,5 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=50&pause=1500&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%9C%A8+Frontend+developer+%E2%9C%A8;%E2%9C%A8+Backend+developer+%E2%9C%A8;%E2%9C%A8+Blockchain+developer+%E2%9C%A8;%E2%9C%A8+React%2FNext%2C+Express+Engineer+%E2%9C%A8;%E2%9C%A8+C%23%2FASP.NET+Engineer+%E2%9C%A8;%E2%9C%A8+8%2B+years+code+experience+%E2%9C%A8;%F0%9F%93%96+Learning+new+technologies+%F0%9F%93%96+)](https://git.io/typing-svg)
+![](https://readme-typing-svg.herokuapp.com?font=Courgette&size=50&pause=1500&center=true&vCenter=true&random=false&width=800&height=80&lines=%E2%9C%A8+Frontend+developer+%E2%9C%A8;%E2%9C%A8+Backend+developer+%E2%9C%A8;%E2%9C%A8+Blockchain+developer+%E2%9C%A8;%E2%9C%A8+React%2FNext%2C+Express+Engineer+%E2%9C%A8;%E2%9C%A8+C%23%2FASP.NET+Engineer+%E2%9C%A8;%E2%9C%A8+8%2B+years+code+experience+%E2%9C%A8;%F0%9F%93%96+Learning+new+technologies+%F0%9F%93%96+)
 </div>
 #:
 - 👋 Hi, I’m Xuanming L.
