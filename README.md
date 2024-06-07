@@ -12,7 +12,14 @@
 - 🔭 I’m currently working on BoltOS.
 - 📫 How to reach me l.softchap@gmail.com.
 
-[![](https://visitcount.itsvg.in/api?id=xuanming-l&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=xuanming-l&label=Visitors&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=xuanming-l&label=Visitors&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/xuanming-l) -->
+<div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=xuanming-l" />
+    <img src="https://img.shields.io/github/followers/xuanming-l?label=Follow&style=social" />
+  
+</div>
 
 # 📊 GitHub Stats:
 <div align="center">
